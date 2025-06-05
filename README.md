@@ -13,6 +13,6 @@ The Data consist app usage of:
 2.3+ TB of data.
 A full description of the dataset is available at https://arxiv.org/abs/2305.06933.
 
-Asif Shakeel and I are the main investigator of the spatial analysis of this data. Orest Bucicovschi, David A. Meyer and David P. Rideout are in charge of the temporal analysis.
+Asif Shakeel and Jiajie Shi are the main investigator of the spatial analysis of this data. Orest Bucicovschi, David A. Meyer and David P. Rideout are in charge of the temporal analysis.
 
 
