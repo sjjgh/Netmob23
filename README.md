@@ -23,7 +23,7 @@ The project is a collaborative effort between:
 - **Spatial analysis**: *Asif Shakeel* and *Jiajie Shi*
 - **Temporal analysis**: *Orest Bucicovschi*, *David A. Meyer*, and *David P. Rideout*
 
-We used **Earth Mover’s Distance (EMD)** (see report for details) to approximate the flow of app usage between time snapshots. This enabled us to visualize the movement dynamics on real-world maps.
+We used **Earth Mover’s Distance (EMD)** (see notes and report for details) to approximate the flow of app usage between time snapshots. This enabled us to visualize the movement dynamics on real-world maps.
 
 <img src="https://github.com/sjjgh/Netmob23/blob/main/evp_0.png" width="600" height="400">
 
