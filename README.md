@@ -1,6 +1,6 @@
 # Temporal and Spatial Analysis of Mobile App Data
 
-This repository contains a backup of the **NetMob23 Project**, presented at the **NetMob 2023 Conference** in Spain. The project report and my personal notes are available in this repository.
+This repository contains a backup of the **NetMob23 Project**, presented at the **NetMob 2023 Conference** in Spain. The [project report](https://github.com/sjjgh/Netmob23/blob/main/Netmob23_Report.pdf) and my [personal notes](https://github.com/sjjgh/Netmob23/blob/main/EMD_notes.pdf) are available in this repository.
 
 ## About the Challenge
 
