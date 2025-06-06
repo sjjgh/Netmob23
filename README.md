@@ -16,7 +16,7 @@ A full description of the dataset is available at https://arxiv.org/abs/2305.069
 Asif Shakeel and Jiajie Shi are the main investigator of the spatial analysis of this data. Orest Bucicovschi, David A. Meyer and David P. Rideout are in charge of the temporal analysis. We use earth movers' distance (detailed in report) to approximate the flow between each snapshots.
 By using the method, we are able to visulize the flows on real map:
 
-<img src="https://github.com/sjjgh/Netmob23/blob/main/evp_0.png" width="400" height="400">
+<img src="https://github.com/sjjgh/Netmob23/blob/main/evp_0.png" width="800" height="400">
 
 By project our result on real map, we are able to detect some really interesting trend in the flow pattern. An illustrative example involves running the algorithm locally to observe Instagram usage changes around Prince Park Stadium during a football match scheduled for April 3rd. Below are the population flow patterns observed from 8:00-8:15 pm, an hour prior to the start of the match. Both EMDE and NEMD clearly depict the movement of crowds towards the stadium, as indicated by the arrows converging from the periphery towards the center.
 
