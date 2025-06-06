@@ -21,7 +21,7 @@ The project is a collaborative effort between:
 - **Spatial analysis**: *Asif Shakeel* and *Jiajie Shi*
 - **Temporal analysis**: *Orest Bucicovschi*, *David A. Meyer*, and *David P. Rideout*
 
-## Results:
+## Part of the Results:
 
 The given data are stationary snapshots of app usage; we aim to infer the dynamic crowd flow by analyzing changes between adjacent timestamps.\
 We used **Earth Mover’s Distance (EMD)** (see notes and report for details) to approximate the flow of app usage between time snapshots. This enabled us to visualize the movement dynamics on real-world maps.
