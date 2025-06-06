@@ -14,6 +14,8 @@ The Data consist app usage of:
 A full description of the dataset is available at https://arxiv.org/abs/2305.06933.
 
 Asif Shakeel and Jiajie Shi are the main investigator of the spatial analysis of this data. Orest Bucicovschi, David A. Meyer and David P. Rideout are in charge of the temporal analysis. We use earth movers' distance (detailed in report) to approximate the flow between each snapshots.
+
+<img src="[https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp](https://github.com/sjjgh/Netmob23/blob/main/Flow_p1.png)" width="200" height="200">
 ![alt text](https://github.com/sjjgh/Netmob23/blob/main/Flow_p1.png | width=100)
 
 
